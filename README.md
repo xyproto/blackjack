@@ -79,7 +79,6 @@ Flags:
 ## General info
 
 * Version: 1.0.0
-* Author: Alexander F. Rødseth &lt;rodseth@gmail.com&gt;
 * License: BSD-3
 
 <sup><sub>The Blackjack image is from [WikiMedia](https://commons.wikimedia.org/wiki/File:Winning_Blackjack_hand_%285857826966%29.jpg) and is licensed under a Creative Commons license.</sub></sup>
